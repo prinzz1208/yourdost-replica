@@ -9,3 +9,25 @@
 
 ### Screenshots
 
+<img src="screenshots/1.png"/>
+
+<img src="screenshots/2.png"/>
+
+<img src="screenshots/3.png"/>
+
+<img src="screenshots/4.png"/>
+
+<img src="screenshots/4_2.png"/>
+
+<img src="screenshots/5.png"/>
+
+<img src="screenshots/6.png"/>
+
+### Process of Replicating the Website
+- Copied text of each file from website using Google Chrome Developer tools.
+- Downloaded each image and graphics used in website using Google Chrome Developer tools.
+
+### Problems faced during UI changes
+- Massive code of website.
+- Duplication of images' links, thus to change one image needed to find link of image in different files.
+- For responsive behaviour different media queries were there so to change color of an element multiple copies of CSS selectors were needed to be searched and then changed.
