@@ -31,3 +31,4 @@
 - Massive code of website.
 - Duplication of images' links, thus to change one image needed to find link of image in different files.
 - For responsive behaviour different media queries were there so to change color of an element multiple copies of CSS selectors were needed to be searched and then changed.
+- In **Latest on YourDost blog** section the images were of very low resolution and thus to change color of images some pixels were not getting identified and thus jagged color pixels were there around the text and boundary of box.
